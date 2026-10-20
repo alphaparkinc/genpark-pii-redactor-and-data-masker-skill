@@ -1,0 +1,9 @@
+{
+  "name": "genpark-pii-redactor-and-data-masker-skill",
+  "version": "1.0.1",
+  "description": "Regex and Luhn heuristic PII redaction and tokenization engine sanitizing sensitive emails, phones, IPs, and credit cards",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "homepage": "https://www.genpark.ai",
+  "entrypoint": "mcp_server.py"
+}
